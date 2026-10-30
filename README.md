@@ -62,7 +62,9 @@ flowchart LR
 | Projeto | Descrição |
 |---|---|
 | 🌐 [ncontatori.github.io](https://github.com/ncontatori/ncontatori.github.io) | Meu site pessoal — perfil, atuação e arquitetura em diagramas |
-| 📄 [personal-public](https://github.com/ncontatori/personal-public) | Currículo e materiais profissionais públicos |
+| 🏛️ [architecture-decision-records](https://github.com/ncontatori/architecture-decision-records) | Modelo de ADR e processo de ARB, com exemplos |
+| 🧭 [capability-map-template](https://github.com/ncontatori/capability-map-template) | Mapa de capacidades, portfólio de aplicações (TIME) e roadmap |
+| 🔐 [lgpd-pseudonymization-reference](https://github.com/ncontatori/lgpd-pseudonymization-reference) | Pseudonimização de CPF/CNPJ em integrações, alinhada à LGPD |
 
 ## 📫 Vamos conversar
 
